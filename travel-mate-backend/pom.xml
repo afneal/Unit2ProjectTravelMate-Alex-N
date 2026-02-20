@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.unit2project</groupId>
-	<artifactId>travelmate</artifactId>
+	<artifactId>travel-mate-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>travelmate</name>
 	<description>Unit 2 Project</description>

@@ -1,10 +1,10 @@
-package com.unit2project.travelmate;
+package com.unit2project.travel_mate_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TravelmateApplicationTests {
+class TravelMateBackendApplicationTests {
 
 	@Test
 	void contextLoads() {

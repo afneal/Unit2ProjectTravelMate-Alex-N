@@ -1,13 +1,13 @@
-package com.unit2project.travelmate;
+package com.unit2project.travel_mate_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TravelmateApplication {
+public class TravelMateBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TravelmateApplication.class, args);
+		SpringApplication.run(TravelMateBackendApplication.class, args);
 	}
 
 }
